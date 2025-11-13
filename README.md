@@ -17,3 +17,5 @@
 Projet d'entraînement pour **Ciarih Innov** 💻✨
 
 J’apprends à utiliser les branches GitHub 🌱
+
+J'ai cloné mon projet sur PC :v
