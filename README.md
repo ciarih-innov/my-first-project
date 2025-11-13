@@ -15,3 +15,5 @@
 
 ## À propos
 Projet d'entraînement pour **Ciarih Innov** 💻✨
+
+J’apprends à utiliser les branches GitHub 🌱
